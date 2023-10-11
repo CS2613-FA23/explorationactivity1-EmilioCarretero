@@ -15,4 +15,4 @@
 ### Question 4
 - Sample input would be four integer values from 0 - 100 for red, green, blue and the colour vs black ratio. The program also needs you to choose a *.jpg* image from your files
 
-![Here is some sampe output:](/UNB/CS2613/EA/SampleOutput.png "Sample Output")
+![Here is some sampe output:](SampleOutput.png "Sample Output")
