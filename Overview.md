@@ -1,6 +1,7 @@
 # Package Overview
 
-[^1]: Which package/library did you select?
+1. First
+Which package/library did you select?
 
 [^2]: What is the package/library?
 	- What purpose does it serve?
